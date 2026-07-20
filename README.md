@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/xarveth/leetdsa/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/xarveth/leetdsa/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/xarveth/leetdsa/tree/master/2469-convert-the-temperature) |
