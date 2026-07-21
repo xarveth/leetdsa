@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/xarveth/leetdsa/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/xarveth/leetdsa/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/xarveth/leetdsa/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/xarveth/leetdsa/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/xarveth/leetdsa/tree/master/2469-convert-the-temperature) |
