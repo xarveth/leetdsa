@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/xarveth/leetdsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/xarveth/leetdsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xarveth/leetdsa/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/xarveth/leetdsa/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/xarveth/leetdsa/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/xarveth/leetdsa/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/xarveth/leetdsa/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xarveth/leetdsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
