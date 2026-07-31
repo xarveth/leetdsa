@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/xarveth/leetdsa/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/xarveth/leetdsa/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/xarveth/leetdsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/xarveth/leetdsa/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xarveth/leetdsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/xarveth/leetdsa/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/xarveth/leetdsa/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
