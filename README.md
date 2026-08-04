@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/xarveth/leetdsa/tree/master/0020-valid-parentheses) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/xarveth/leetdsa/tree/master/1108-defanging-an-ip-address) |
 ## Recursion
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xarveth/leetdsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/xarveth/leetdsa/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/xarveth/leetdsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
