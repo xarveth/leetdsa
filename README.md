@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xarveth/leetdsa/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/xarveth/leetdsa/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/xarveth/leetdsa/tree/master/1108-defanging-an-ip-address) |
 ## Recursion
