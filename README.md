@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/xarveth/leetdsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xarveth/leetdsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/xarveth/leetdsa/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xarveth/leetdsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/xarveth/leetdsa/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/xarveth/leetdsa/tree/master/1108-defanging-an-ip-address) |
 ## Recursion
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xarveth/leetdsa/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
