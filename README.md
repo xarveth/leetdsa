@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/xarveth/leetdsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/xarveth/leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 ## Math
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/xarveth/leetdsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/xarveth/leetdsa/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/xarveth/leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/xarveth/leetdsa/tree/master/1108-defanging-an-ip-address) |
 ## Recursion
@@ -109,4 +111,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/xarveth/leetdsa/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/xarveth/leetdsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
