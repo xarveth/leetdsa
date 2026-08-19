@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xarveth/leetdsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/xarveth/leetdsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/xarveth/leetdsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xarveth/leetdsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/xarveth/leetdsa/tree/master/1470-shuffle-the-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/xarveth/leetdsa/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/xarveth/leetdsa/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/xarveth/leetdsa/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
