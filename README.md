@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/xarveth/leetdsa/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/xarveth/leetdsa/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/xarveth/leetdsa/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/xarveth/leetdsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xarveth/leetdsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/xarveth/leetdsa/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xarveth/leetdsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
+| [0506-relative-ranks](https://github.com/xarveth/leetdsa/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/xarveth/leetdsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/xarveth/leetdsa/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/xarveth/leetdsa/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
