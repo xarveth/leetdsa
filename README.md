@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/xarveth/leetdsa/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/xarveth/leetdsa/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xarveth/leetdsa/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/xarveth/leetdsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/xarveth/leetdsa/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/xarveth/leetdsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/xarveth/leetdsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xarveth/leetdsa/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/xarveth/leetdsa/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/xarveth/leetdsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/xarveth/leetdsa/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/xarveth/leetdsa/tree/master/2469-convert-the-temperature) |
 ## Binary Search
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xarveth/leetdsa/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/xarveth/leetdsa/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xarveth/leetdsa/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/xarveth/leetdsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/xarveth/leetdsa/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
