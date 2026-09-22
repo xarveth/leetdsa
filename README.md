@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/xarveth/leetdsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xarveth/leetdsa/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/xarveth/leetdsa/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/xarveth/leetdsa/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/xarveth/leetdsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/xarveth/leetdsa/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/xarveth/leetdsa/tree/master/2469-convert-the-temperature) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/xarveth/leetdsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/xarveth/leetdsa/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/xarveth/leetdsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/xarveth/leetdsa/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/xarveth/leetdsa/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/xarveth/leetdsa/tree/master/1108-defanging-an-ip-address) |
 ## Recursion
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/xarveth/leetdsa/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/xarveth/leetdsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/xarveth/leetdsa/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
